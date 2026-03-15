@@ -1,6 +1,4 @@
-====================================================
- CAREER ASSISTANT AI AGENT - TESLIM BILGILERI
-====================================================
+CAREER ASSISTANT AI AGENT - TESLIM BILGILERI
 
 1. SOURCE CODE (GitHub Repository)
    https://github.com/BoraAlgan/AI-Agent-Project
@@ -26,5 +24,3 @@
 5. SHORT REPORT (PDF)
    Proje klasöründeki report.pdf dosyasında yer almaktadır.
    Ayrıca Markdown versiyonu: https://github.com/BoraAlgan/AI-Agent-Project/blob/main/report.md
-
-====================================================
