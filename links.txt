@@ -1,0 +1,30 @@
+====================================================
+ CAREER ASSISTANT AI AGENT - TESLIM BILGILERI
+====================================================
+
+1. SOURCE CODE (GitHub Repository)
+   https://github.com/BoraAlgan/AI-Agent-Project
+
+2. WORKING DEMO (Live Demo)
+   Yerel çalıştırmak için:
+   > pip install -r requirements.txt
+   > uvicorn main:app --reload
+   Tarayıcıda aç: http://127.0.0.1:8000
+
+3. ARCHITECTURE DIAGRAM
+   Repo içindeki architecture_diagram.md dosyasında Mermaid şema olarak yer almaktadır.
+   https://github.com/BoraAlgan/AI-Agent-Project/blob/main/architecture_diagram.md
+
+4. TEST CASES (6 Senaryo)
+   - 1. Cumartesi Mülakat Talebi (Reddedilmeli)
+   - 2. Ders Saati Testi (Çarşamba/Perşembe - Reddedilmeli)
+   - 3. Standart Mülakat Talebi (Onaylanmalı, mail atılmalı)
+   - 4. Maaş Bilgisi Sorusu (Yönlendirilmeli, mail atılmalı)
+   - 5. Teknik Bilgi Sorusu (MVVM vs MVI - Cevaplanmalı)
+   - 6. Bilinmeyen/Güvensiz Soru (Alert + Mail tetiklenmeli)
+
+5. SHORT REPORT (PDF)
+   Proje klasöründeki report.pdf dosyasında yer almaktadır.
+   Ayrıca Markdown versiyonu: https://github.com/BoraAlgan/AI-Agent-Project/blob/main/report.md
+
+====================================================
